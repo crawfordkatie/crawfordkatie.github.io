@@ -1,12 +1,13 @@
 h1 {
   color:9eb89e;
-  font-family:timesnewroman;
+  font-family:courier;
   border: 2px dashed black;
   padding: 20px;
 }
 
 p {
   color:323832;
+  font-family: courier;
 }
 
 body {
@@ -17,4 +18,5 @@ img {
   width: 40%;
   height: 35%;
   margin-left: 75px;
+  border: 3px solid palevioletred;
 }
