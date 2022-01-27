@@ -1,0 +1,20 @@
+h1 {
+  color:9eb89e;
+  font-family:timesnewroman;
+  border: 2px dashed black;
+  padding: 20px;
+}
+
+p {
+  color:323832;
+}
+
+body {
+  background-color:e5e5dc;
+}
+
+img {
+  width: 40%;
+  height: 35%;
+  margin-left: 75px;
+}
